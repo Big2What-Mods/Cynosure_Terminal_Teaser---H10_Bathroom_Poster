@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="headder.png" alt="Cynosure Terminal Teaser" width="100%">
+
 # About this mod
 
 **Replaces the H10 bathroom directional arrows with a framed teaser for the upcoming Cynosure Terminal, coming by the end of Q4 2026**
@@ -28,6 +30,10 @@ Cynosure Terminal is currently in active development and is planned for release 
 This release is deliberately only a teaser. It does not contain Cynosure Terminal itself, and it isn't intended to reveal its full feature set, interface, or how the underlying systems work.
 
 The framed display uses the existing H10 bathroom decal placement. The apparent metal frame, illuminated accents, fasteners, and depth are all part of the artwork. There is no custom mesh. It's still a completely flat texture replacement designed to create the illusion of a physical display mounted on V's wall.
+
+<p align="center">
+  <img src="wall.png" alt="Cynosure Terminal teaser installed in V's H10 bathroom" width="900">
+</p>
 
 ---
 
